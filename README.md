@@ -10,3 +10,5 @@ SHMMPSCQueue can reside in shared memory, thus suitable for IPC, and the msg siz
 
 # Examples
 [test](https://github.com/MengRao/MPSC_Queue/tree/master/test) provides a simple test program and a full fledged async logging implementation(based on [muduo](https://github.com/chenshuo/muduo)), for both versions.
+
+
